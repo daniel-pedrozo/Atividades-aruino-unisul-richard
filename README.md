@@ -1,6 +1,6 @@
 Integrandtes do greupo: 
 
-Daniel Pedrozo
+Daniel Pedrozo /n
 Gabriel Bueno 
 Guilherme Bauer 
 Ailton Barros
