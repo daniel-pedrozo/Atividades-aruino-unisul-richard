@@ -1,6 +1,9 @@
-Integrandtes do greupo: 
+**Integrandtes do greupo: **
 
-Daniel Pedrozo /n
+Daniel Pedrozo 
+
 Gabriel Bueno 
+
 Guilherme Bauer 
+
 Ailton Barros
